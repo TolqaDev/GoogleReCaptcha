@@ -5,7 +5,7 @@
 - CSS3
 - JavaScript
 - PHP 7.4.16
-- Google ReCaptcha Library 
+- Google ReCaptcha Library
 
 Google ReCaptcha sayesinde site güvenliğinizi 2 kat arttırabilirsiniz.
 
@@ -14,7 +14,8 @@ Google ReCaptcha sayesinde site güvenliğinizi 2 kat arttırabilirsiniz.
 - Sitenize gelecek botlar İNPUT alanları sıklıkla kullanmaktadır.
 - Bu alanlarda SPAM ileti almak istemiyorsanız 'Google ReCaptcha' kullanmanızı tavsiye ederiz.
 
-- Bu altyapı kolay entegrasyon amaçlı yapılmıştır, Entegrasyon bilmiyor ve bu sistme üzerinden sitenize birşey olacağını düşünüyorsanız lütfen kullanmayın...
+- Bu altyapı kolay entegrasyon amaçlı yapılmıştır, 
+    Entegrasyon bilmiyor ve bu sistme üzerinden sitenize birşey olacağını düşünüyorsanız lütfen kullanmayın...
 ```
 - Düzenleme Yapılabilen Dökümanlar
 ```
